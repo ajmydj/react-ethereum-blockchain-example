@@ -1,0 +1,12 @@
+Ajits-MBP:ethereum sonawane$ node deploy.js
+Attempting to deploy from account 0x7FEC5CBd54810479B08eb2F1Af6c42Bdb45c7Ed3
+Contract deployed to... 0x0c98dA05Adeaeb7D1fcb103E657A29AA130583Ae
+
+
+
+getDeployedCampaigns
+0: address[]: 0x3d31cdfbea7f75f43c8f7da77df6d133409f10e4
+
+
+
+0x10dB31066008b598D3CE6eE931A2fbC5F0B86162
